@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "Sample Song 1",
+    "url": "/tracks/song1.mp3"
+  },
+  {
+    "id": 2,
+    "title": "Sample Song 2",
+    "url": "/tracks/song2.mp3"
+  }
+]
