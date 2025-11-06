@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import Player from '@/components/Player';
+import Player from '../components/Player';
 
 export default function Home() {
   const [tracks, setTracks] = useState([]);
